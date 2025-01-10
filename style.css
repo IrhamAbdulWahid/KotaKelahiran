@@ -1,0 +1,17 @@
+.np {
+    display: flex;
+    justify-content: center;
+  }
+
+nav li a {
+    text-decoration: double;
+    text-transform: uppercase;
+}
+
+p {
+    text-decoration: dotted;
+    text-align: justify;
+}
+
+
+
